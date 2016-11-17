@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bliss</string>
+    <string name="facebook_app_id">1798359120444364</string>
+
+    <string name="login_title">Bliss with\nMac Daily 3</string>
+    <string name="logged_title">blisswithmac</string>
+    <string name="take_camera_main_menu">Take Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Log out</string>
+</resources>
